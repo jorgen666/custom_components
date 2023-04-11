@@ -1,4 +1,4 @@
-a component to read Gill Instruments Windsonic sensor
+## A component to read Gill Instruments Windsonic sensor
 
 
 ```
