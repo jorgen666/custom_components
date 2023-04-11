@@ -1,7 +1,7 @@
 a component to read Gill Instruments Windsonic sensor
 
 
-
+```
 YAML:
 
 uart:
@@ -22,3 +22,4 @@ sensor:
       id: wd
     nmea_text:
       id: nm
+```
